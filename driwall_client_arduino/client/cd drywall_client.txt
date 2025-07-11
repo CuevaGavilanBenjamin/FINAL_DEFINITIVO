@@ -1,0 +1,2 @@
+cd drywall_client
+python sftp_upload.py --list
